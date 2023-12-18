@@ -1,7 +1,7 @@
 <h2> Hello world, I'm Diego Nunfio 🤓 </h2>
 
 Feel free to checkout my [portfolio](#) website.
-- Software Engineer (Full Stack), in Austin, TX
+- Software Engineer (Full Stack).
 - I build with: <b> Javascript, Python, Tailwind, React, MongoDB, MySQL </b>
 - I enjoy code, reading, coffee, and lifting weights :)
 - Reach out to me: dg.nunfio@gmail.com
