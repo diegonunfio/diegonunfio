@@ -1,6 +1,7 @@
 <h2> Hello world, I'm Diego Nunfio 🤓 </h2>
 <h3> Software Engineer  </h3>
-- I build with: <b> C#, .Net, Sql Server, MySql, Azure, Git, Javascript... </br>
+- I build with: <b> C#, .Net, ASP.NET Core Web APIs,
+      Sql Server, MySql, Azure, Git, Javascript... </br>
 - I enjoy code, reading, coffee, and running :) <br>
 - Reach out to me: dg.nunfio@gmail.com <br>
   <br>
