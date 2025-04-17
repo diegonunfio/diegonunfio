@@ -1,7 +1,5 @@
 <h2> Hello world, I'm Diego Nunfio 🤓 </h2>
-
-Feel free to checkout my [portfolio](#) website.
-- Software Engineer.
+<h3> Software Engineer. </h3>
 - I build with: <b> C#, .Net, Sql Server, RESTful Apis, Javascript... </b>
 - I enjoy code, reading, coffee, and running :)
 - Reach out to me: dg.nunfio@gmail.com
