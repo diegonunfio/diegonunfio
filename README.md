@@ -1,7 +1,7 @@
 
 # Hello world, I'm Diego! 🤓
 
-<h2> Software Engineer | Full Stack </h2>
+<h3> Software Engineer | Full Stack </h3>
 
 * I build with:  `C#`, `ASP.NET Core`, `Restful APIs`, `SQL Server`, `CI/CD`, `AWS`, `Docker`, `Azure`, `Git`, `Javascript`
 * I enjoy code, reading, coffee, and running :) 
