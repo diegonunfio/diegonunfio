@@ -7,8 +7,9 @@
 <br>
 
 <a href="https://git.io/streak-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=diegonunfio&theme=neon-dark&date_format=j%20M%5B%20Y%5D&card_width=485&card_height=234" alt="GitHub Streak" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=diegonunfio&theme=radical&date_format=j%20M%5B%20Y%5D&card_width=485&card_height=234" alt="GitHub Streak"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegonunfio&layout=compact&langs_count=8&card_width=320" />
 </a>
+
