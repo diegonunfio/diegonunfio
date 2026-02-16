@@ -3,7 +3,7 @@
 
 <h3> Cloud Engineer  </h3>
 
-* I build with:  `Python`,  `Jenkins`, `Terraform`, `Docker`, `Azure`, `GCP`, `CI/CD`, `Git`, `Linux`
+* I build with:  `Python`,  `Jenkins`, `Terraform`, `Docker`, `Azure`, `GCP`, `CI/CD`, `Git`, `SQL`, `Linux`.
 * I enjoy code, reading, coffee, and running :) 
 * Reach out to me: dg.nunfio@gmail.com 
 
