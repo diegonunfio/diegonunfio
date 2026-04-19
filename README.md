@@ -1,7 +1,7 @@
 
 # Hello world, I'm Diego! 🤓
 
-<h3> Cloud Engineer  </h3>
+<h3> Cloud Engineer / DevOps </h3>
 
 * I build with:  `Python`,  `Jenkins`, `Terraform`, `Docker`, `Azure`, `GCP`, `CI/CD`, `Git`, `SQL`, `Linux`.
 * I enjoy code, reading, coffee, and running :) 
