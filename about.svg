@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="248" viewBox="0 0 1000 248">
+<style>
+  .sans { font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif; }
+  .mono { font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace; }
+  .title { fill:#e6edf3; font-weight:700; }
+  .text { fill:#e6edf3; }
+  .muted { fill:#8b9bb4; }
+  .green { fill:#33e37b; }
+  .blue { fill:#4fa3ff; }
+</style>
+<rect width="100%" height="100%" rx="18" fill="#0d1117"/>
+
+<text x="38" y="38" class="sans green" font-size="13" font-weight="800">ABOUT ME</text>
+
+<rect x="165" y="58" width="670" height="166" rx="9" fill="#0b0f14" stroke="#30363d"/>
+<rect x="165" y="58" width="670" height="42" rx="9" fill="#11161d" stroke="#30363d"/>
+<rect x="165" y="91" width="670" height="9" fill="#11161d"/>
+<circle cx="189" cy="79" r="7" fill="#ff5f56"/>
+<circle cx="211" cy="79" r="7" fill="#ffbd2e"/>
+<circle cx="233" cy="79" r="7" fill="#27c93f"/>
+<text x="500.0" y="84" text-anchor="middle" class="mono muted" font-size="13">diegonunfio@github: ~ $ cat about.md</text>
+
+<text x="188" y="105" class="mono green" font-size="14" font-weight="700">diegonunfio@github</text>
+<text x="350" y="105" class="mono text" font-size="14">:~$ cat about.md</text>
+<text x="188" y="141" class="mono text" font-size="14">Cloud Engineer passionate about software architecture, continuous learning,</text><text x="188" y="169" class="mono text" font-size="14">and building scalable solutions 🚀</text><text x="188" y="210" class="mono text" font-size="14">&gt; open to collaboration</text>
+</svg>

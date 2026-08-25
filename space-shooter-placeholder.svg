@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240">
+<rect width="900" height="240" rx="12" fill="#0d1117"/>
+<rect x="1" y="1" width="898" height="238" rx="11" fill="none" stroke="#30363d"/>
+<text x="450" y="105" text-anchor="middle" font-family="ui-monospace,monospace" font-size="20" fill="#33e37b">SPACE SHOOTER</text>
+<text x="450" y="140" text-anchor="middle" font-family="ui-monospace,monospace" font-size="14" fill="#8b9bb4">Run the GitHub Action once to generate assets/space-shooter.gif 🚀</text>
+</svg>

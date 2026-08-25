@@ -1,0 +1,50 @@
+{
+  "username": "diegonunfio",
+  "name": "Diego Nunfio",
+  "role": "Full-Stack / Cloud Engineer",
+  "tagline": "Building scalable software, cloud systems and polished developer experiences.",
+  "bio": [
+    "Cloud Engineer passionate about software architecture, continuous learning,",
+    "and building scalable solutions 🚀"
+  ],
+  "availability": "open to collaboration",
+  "skills": [
+    "TypeScript",
+    "Next.js",
+    "React",
+    "Node.js",
+    "Python",
+    "AWS",
+    "Docker",
+    "Product Engineering"
+  ],
+  "projects": [
+    {
+      "name": "project-one",
+      "description": "A polished product with a clear user experience and measurable outcomes.",
+      "tech": [
+        "TypeScript",
+        "Next.js",
+        "React"
+      ],
+      "url": "https://github.com/diegonunfio"
+    },
+    {
+      "name": "developer-tools",
+      "description": "Reusable systems, automation and GitHub-native workflow improvements.",
+      "tech": [
+        "Python",
+        "Node.js",
+        "Automation"
+      ],
+      "url": "https://github.com/diegonunfio"
+    }
+  ],
+  "links": {
+    "GitHub": "https://github.com/diegonunfio",
+    "LinkedIn": "https://www.linkedin.com/",
+    "Portfolio": "https://example.com"
+  },
+  "accent": "#33e37b",
+  "accent2": "#4fa3ff"
+}

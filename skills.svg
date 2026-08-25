@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+<style>
+  .sans { font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif; }
+  .mono { font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace; }
+  .title { fill:#e6edf3; font-weight:700; }
+  .text { fill:#e6edf3; }
+  .muted { fill:#8b9bb4; }
+  .green { fill:#33e37b; }
+  .blue { fill:#4fa3ff; }
+</style>
+<rect width="100%" height="100%" rx="18" fill="#0d1117"/>
+
+<text x="38" y="38" class="sans green" font-size="13" font-weight="800">SKILLS</text>
+
+<rect x="145" y="58" width="710" height="132" rx="9" fill="#0b0f14" stroke="#30363d"/>
+<rect x="145" y="58" width="710" height="42" rx="9" fill="#11161d" stroke="#30363d"/>
+<rect x="145" y="91" width="710" height="9" fill="#11161d"/>
+<circle cx="169" cy="79" r="7" fill="#ff5f56"/>
+<circle cx="191" cy="79" r="7" fill="#ffbd2e"/>
+<circle cx="213" cy="79" r="7" fill="#27c93f"/>
+<text x="500.0" y="84" text-anchor="middle" class="mono muted" font-size="13">diegonunfio@github: ~ $ ls skills/</text>
+
+<text x="168" y="105" class="mono green" font-size="14" font-weight="700">diegonunfio@github</text>
+<text x="330" y="105" class="mono text" font-size="14">:~$ ls skills/</text>
+<rect x="168" y="127" width="100.0" height="30" rx="15" fill="#101e2d" stroke="#28527a"/><text x="218.0" y="147" text-anchor="middle" class="sans" font-size="13" font-weight="700" fill="#8fc5ff">TypeScript</text><rect x="278.0" y="127" width="75.39999999999999" height="30" rx="15" fill="#101e2d" stroke="#28527a"/><text x="315.7" y="147" text-anchor="middle" class="sans" font-size="13" font-weight="700" fill="#8fc5ff">Next.js</text><rect x="363.4" y="127" width="66" height="30" rx="15" fill="#101e2d" stroke="#28527a"/><text x="396.4" y="147" text-anchor="middle" class="sans" font-size="13" font-weight="700" fill="#8fc5ff">React</text><rect x="439.4" y="127" width="75.39999999999999" height="30" rx="15" fill="#101e2d" stroke="#28527a"/><text x="477.09999999999997" y="147" text-anchor="middle" class="sans" font-size="13" font-weight="700" fill="#8fc5ff">Node.js</text><rect x="524.8" y="127" width="67.19999999999999" height="30" rx="15" fill="#101e2d" stroke="#28527a"/><text x="558.4" y="147" text-anchor="middle" class="sans" font-size="13" font-weight="700" fill="#8fc5ff">Python</text><rect x="602.0" y="127" width="66" height="30" rx="15" fill="#101e2d" stroke="#28527a"/><text x="635.0" y="147" text-anchor="middle" class="sans" font-size="13" font-weight="700" fill="#8fc5ff">AWS</text><rect x="678.0" y="127" width="67.19999999999999" height="30" rx="15" fill="#101e2d" stroke="#28527a"/><text x="711.6" y="147" text-anchor="middle" class="sans" font-size="13" font-weight="700" fill="#8fc5ff">Docker</text><rect x="168" y="165" width="173.79999999999998" height="30" rx="15" fill="#101e2d" stroke="#28527a"/><text x="254.89999999999998" y="185" text-anchor="middle" class="sans" font-size="13" font-weight="700" fill="#8fc5ff">Product Engineering</text>
+</svg>

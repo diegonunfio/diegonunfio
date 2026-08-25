@@ -1,29 +1,45 @@
-# diegonunfio
+<div align="center">
 
-> Memorable developer positioning.
+<img src="./assets/hero.svg" width="100%" alt="Profile header">
 
-## About Me
+</div>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=diegonunfio&theme=github-dark&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=diegonunfio&theme=github-dark&style=terminal" alt="diegonunfio about section" />
-  </picture>
-</p>
-## Skills
+<br>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=diegonunfio&theme=github-dark&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=diegonunfio&theme=github-dark&style=terminal" alt="diegonunfio stack section" />
-  </picture>
-</p>
-## Projects
+<img src="./assets/about.svg" width="100%" alt="About me">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=diegonunfio&theme=github-dark&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=diegonunfio&theme=github-dark&style=terminal" alt="diegonunfio projects section" />
-  </picture>
-</p>
-## Heatmap
+<br>
+
+<img src="./assets/skills.svg" width="100%" alt="Skills">
+
+<br>
+
+<img src="./assets/projects.svg" width="100%" alt="Projects">
+
+<br>
+
+<img src="./assets/heatmap.svg" width="100%" alt="Contribution heatmap">
+
+<br>
+
+<div align="center">
+
+### 🚀 Contribution Space Shooter
+
+> The GIF below is generated automatically from the GitHub contribution graph.
+
+<img src="./assets/space-shooter.gif" width="78%" alt="GitHub contribution space shooter">
+
+</div>
+
+<br>
+
+<img src="./assets/focus.svg" width="100%" alt="Current focus">
+
+---
+
+<div align="center">
+
+Built with SVG + GitHub Actions · no paid README service required.
+
+</div>
