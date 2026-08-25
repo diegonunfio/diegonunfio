@@ -1,50 +1,33 @@
 {
   "username": "diegonunfio",
   "name": "Diego Nunfio",
-  "role": "Full-Stack / Cloud Engineer",
-  "tagline": "Building scalable software, cloud systems and polished developer experiences.",
+  "role": "DevOps / Cloud Engineer",
+  "tagline": "Building scalable cloud infrastructure, automation and reliable systems.",
+
   "bio": [
-    "Cloud Engineer passionate about software architecture, continuous learning,",
-    "and building scalable solutions 🚀"
+    "DevOps / Cloud Engineer passionate about automation, cloud infrastructure,",
+    "continuous learning and building scalable solutions 🚀"
   ],
+
   "availability": "open to collaboration",
+
   "skills": [
-    "TypeScript",
-    "Next.js",
-    "React",
-    "Node.js",
-    "Python",
     "AWS",
     "Docker",
-    "Product Engineering"
+    "Kubernetes",
+    "Terraform",
+    "Linux",
+    "GitHub Actions",
+    "Python",
+    "Bash"
   ],
-  "projects": [
-    {
-      "name": "project-one",
-      "description": "A polished product with a clear user experience and measurable outcomes.",
-      "tech": [
-        "TypeScript",
-        "Next.js",
-        "React"
-      ],
-      "url": "https://github.com/diegonunfio"
-    },
-    {
-      "name": "developer-tools",
-      "description": "Reusable systems, automation and GitHub-native workflow improvements.",
-      "tech": [
-        "Python",
-        "Node.js",
-        "Automation"
-      ],
-      "url": "https://github.com/diegonunfio"
-    }
-  ],
+
+  "projects": [],
+
   "links": {
-    "GitHub": "https://github.com/diegonunfio",
-    "LinkedIn": "https://www.linkedin.com/",
-    "Portfolio": "https://example.com"
+    "GitHub": "https://github.com/diegonunfio"
   },
+
   "accent": "#33e37b",
   "accent2": "#4fa3ff"
 }
