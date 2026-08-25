@@ -1,14 +1,29 @@
+# diegonunfio
 
-# Hello world, I'm Diego! 🤓
+> Memorable developer positioning.
 
-<h3> Cloud Engineer / DevOps </h3>
+## About Me
 
-* I build with:  `Python`,  `Jenkins`, `Terraform`, `Docker`, `Azure`, `GCP`, `CI/CD`, `Git`, `SQL`, `Linux`.
-* I enjoy code, reading, coffee, and running :) 
-* Reach out to me: dg.nunfio@gmail.com 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=diegonunfio&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=diegonunfio&theme=github-dark&style=terminal" alt="diegonunfio about section" />
+  </picture>
+</p>
+## Skills
 
-<a href="https://git.io/streak-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=diegonunfio&theme=radical&date_format=M%20j%5B%2C%20Y%5D&card_width=420" alt="GitHub Streak"/>
-</a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=diegonunfio&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=diegonunfio&theme=github-dark&style=terminal" alt="diegonunfio stack section" />
+  </picture>
+</p>
+## Projects
 
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=diegonunfio&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=diegonunfio&theme=github-dark&style=terminal" alt="diegonunfio projects section" />
+  </picture>
+</p>
+## Heatmap
