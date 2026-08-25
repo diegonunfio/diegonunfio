@@ -1,45 +1,44 @@
-<div align="center">
+# diegonunfio
 
-<img src="./assets/hero.svg" width="100%" alt="Profile header">
+> Memorable developer positioning.
 
-</div>
+## Header
 
-<br>
+Hi, I'm **diegonunfio**. This README shares what I'm building, the tools I use, and the work I'm proud of.
 
-<img src="./assets/about.svg" width="100%" alt="About me">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=diegonunfio&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=diegonunfio&theme=github-dark&style=terminal" alt="diegonunfio hero section" />
+  </picture>
+</p>
 
-<br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=diegonunfio&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=diegonunfio&theme=github-dark&style=terminal" alt="diegonunfio about section" />
+  </picture>
+</p>
 
-<img src="./assets/skills.svg" width="100%" alt="Skills">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=diegonunfio&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=diegonunfio&theme=github-dark&style=terminal" alt="diegonunfio stack section" />
+  </picture>
+</p>
+## Projects
 
-<br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=diegonunfio&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=diegonunfio&theme=github-dark&style=terminal" alt="diegonunfio projects section" />
+  </picture>
+</p>
+## Heatmap
 
-<img src="./assets/projects.svg" width="100%" alt="Projects">
-
-<br>
-
-<img src="./assets/heatmap.svg" width="100%" alt="Contribution heatmap">
-
-<br>
-
-<div align="center">
-
-### 🚀 Contribution Space Shooter
-
-> The GIF below is generated automatically from the GitHub contribution graph.
-
-<img src="./assets/space-shooter.gif" width="78%" alt="GitHub contribution space shooter">
-
-</div>
-
-<br>
-
-<img src="./assets/focus.svg" width="100%" alt="Current focus">
-
----
-
-<div align="center">
-
-Built with SVG + GitHub Actions · no paid README service required.
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=diegonunfio&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=diegonunfio&theme=github-dark&style=terminal" alt="diegonunfio heatmap section" />
+  </picture>
+</p>
