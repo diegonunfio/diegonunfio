@@ -31,8 +31,6 @@ Hi, I'm **diegonunfio**. This README shares what I'm building, the tools I use, 
   </picture>
 </p>
 
-## 🚀 Contribution Space Shooter
-
 <p align="center">
   <img src="./assets/space-shooter.gif" alt="GitHub Contribution Space Shooter" width="85%" />
 </p>
