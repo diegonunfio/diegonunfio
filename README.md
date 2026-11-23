@@ -1,7 +1,7 @@
 # Diegonunfio 🚀
 
 > DevOps / Cloud Engineer  
-Hi, I'm **diegonunfio**. This README shares what I'm building, the tools I use, and the work I'm proud of.
+Hi, I'm **diegonunfio**. This is the work I'm proud of.
 
 <p align="center">
   <img src="./assets/hero.svg" alt="whoami: Diego Nunfio, DevOps / Cloud Engineer" width="100%" />
