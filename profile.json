@@ -2,31 +2,23 @@
   "username": "diegonunfio",
   "name": "Diego Nunfio",
   "role": "DevOps / Cloud Engineer",
-  "tagline": "Building scalable cloud infrastructure, automation and reliable systems.",
-
-  "bio": [
-    "DevOps / Cloud Engineer passionate about automation, cloud infrastructure,",
-    "continuous learning and building scalable solutions 🚀"
-  ],
-
   "availability": "open to collaboration",
+  "bio": "Passionate about automation, cloud infrastructure, software architecture, continuous learning and building scalable solutions.",
 
   "skills": [
     "AWS",
+    "Terraform",
     "Docker",
     "Kubernetes",
-    "Terraform",
-    "Linux",
     "GitHub Actions",
-    "Python",
-    "Bash"
+    "Linux",
+    "Bash",
+    ".NET"
   ],
 
   "projects": [],
-
-  "links": {
-    "GitHub": "https://github.com/diegonunfio"
-  },
+  "projects_limit": 6,
+  "hide_languages": [],
 
   "accent": "#33e37b",
   "accent2": "#4fa3ff"
