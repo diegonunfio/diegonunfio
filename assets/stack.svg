@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="260" viewBox="0 0 860 260" role="img" aria-labelledby="t">
-<title id="t">Languages: C#, TypeScript, Python, HCL, JavaScript, CSS, HTML. Tools: AWS, Terraform, Docker, Kubernetes, GitHub Actions, Linux, Bash, .NET</title>
+<title id="t">Languages: C#, Python, TypeScript, HCL, JavaScript, CSS, HTML. Tools: AWS, Terraform, Docker, Kubernetes, GitHub Actions, Linux, Bash, .NET</title>
 <style>
     text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace; font-size: 15px; fill: #d6dde6; white-space: pre; }
     .title { font-size: 13px; fill: #7b8696; }
@@ -25,12 +25,12 @@
 <rect x="32.0" y="104" width="60.8" height="30" rx="7" fill="#11161d" stroke="#2a323e"/>
 <circle cx="49.0" cy="119.0" r="4.5" fill="#178600"/>
 <text x="62.0" y="124.0" style="font-size:14px">C#</text>
-<rect x="102.8" y="104" width="128.0" height="30" rx="7" fill="#11161d" stroke="#2a323e"/>
-<circle cx="119.8" cy="119.0" r="4.5" fill="#3178c6"/>
-<text x="132.8" y="124.0" style="font-size:14px">TypeScript</text>
-<rect x="240.8" y="104" width="94.4" height="30" rx="7" fill="#11161d" stroke="#2a323e"/>
-<circle cx="257.8" cy="119.0" r="4.5" fill="#3572A5"/>
-<text x="270.8" y="124.0" style="font-size:14px">Python</text>
+<rect x="102.8" y="104" width="94.4" height="30" rx="7" fill="#11161d" stroke="#2a323e"/>
+<circle cx="119.8" cy="119.0" r="4.5" fill="#3572A5"/>
+<text x="132.8" y="124.0" style="font-size:14px">Python</text>
+<rect x="207.2" y="104" width="128.0" height="30" rx="7" fill="#11161d" stroke="#2a323e"/>
+<circle cx="224.2" cy="119.0" r="4.5" fill="#3178c6"/>
+<text x="237.2" y="124.0" style="font-size:14px">TypeScript</text>
 <rect x="345.2" y="104" width="69.2" height="30" rx="7" fill="#11161d" stroke="#2a323e"/>
 <circle cx="362.2" cy="119.0" r="4.5" fill="#844FBA"/>
 <text x="375.2" y="124.0" style="font-size:14px">HCL</text>
