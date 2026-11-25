@@ -405,7 +405,8 @@
 <rect x="794" y="166" width="11" height="11" rx="2" fill="#161c24"/>
 <rect x="794" y="180" width="11" height="11" rx="2" fill="#33e37b" fill-opacity="0.76"><title>2026-11-23</title></rect>
 <rect x="794" y="194" width="11" height="11" rx="2" fill="#161c24"/>
-<text x="32" y="290" class="dim xs">updated Nov 24, 2026</text>
+<rect x="794" y="208" width="11" height="11" rx="2" fill="#161c24"/>
+<text x="32" y="290" class="dim xs">updated Nov 25, 2026</text>
 <text x="828" y="290" class="dim xs" text-anchor="end">more</text>
 <rect x="784" y="280" width="11" height="11" rx="2" fill="#33e37b" fill-opacity="1"/>
 <rect x="770" y="280" width="11" height="11" rx="2" fill="#33e37b" fill-opacity="0.76"/>
